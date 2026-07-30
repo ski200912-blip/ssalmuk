@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/index.html</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-07-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/구마모토-지진으로-반도체-공급-타격-TSMC소니르네사스-재가동-기약-없어.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/몸-씻고-동전-줍는-청계천-민폐족감시-인력-늘리고-과태료-추진.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/정청래김민석-민주당-대표-적합도-국민도-지지층도-오차범위-내-NBS.html</loc>
+    <lastmod>2026-07-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/posts/유시민-이-대통령-또-비판-당대표는-대통령-부하가-아니다.html</loc>
