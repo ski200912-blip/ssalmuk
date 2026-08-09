@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/index.html</loc>
-    <lastmod>2026-08-03</lastmod>
+    <lastmod>2026-08-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/오늘-TK강원-경선김민석-우세-vs-정청래-역전-초박빙-승부-향방은.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/패트리엇-재고-1700기-미만-대북-방공망-공백-우려.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/이재명-정부가-택한-손쉬운-개혁-나쁜-개혁으로-끝나지-않으려면.html</loc>
+    <lastmod>2026-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/posts/검찰-수사권-폐지법에-국힘-이-대통령-거부권을-민주-탄핵-운운-겁박.html</loc>
