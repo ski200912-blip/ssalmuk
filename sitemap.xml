@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/index.html</loc>
-    <lastmod>2026-08-10</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/김여정-트럼프-말-한마디에-항변-못하고-아첨하는-이재명.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/전국-주요-신문-톱뉴스21일-조간.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/청-조희대-대통령-패싱에-불쾌감임명권-무시-초유-사태.html</loc>
+    <lastmod>2026-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/posts/김민석-148p차-박빙-우위이번-주말-호남수도권서-결판.html</loc>
