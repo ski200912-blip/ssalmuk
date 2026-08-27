@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/index.html</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/오세훈-용산공원-미래-세대-위한-녹지시민들도-주택-공급-반대.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/이-대통령-지지율-50-1P김민석-긍정평가-50부정평가-37NBS.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ski200912-blip.github.io/trend-focus/posts/아침-6시-덮친-네팔-대홍수-68살-생존자-아내-손잡을-겨를도-없이.html</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://ski200912-blip.github.io/trend-focus/posts/김여정-트럼프-말-한마디에-항변-못하고-아첨하는-이재명.html</loc>
